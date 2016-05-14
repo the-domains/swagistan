@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[swagistan]]></title>
         <description><![CDATA[swagistan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/swagistan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 14:53:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 14:57:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/swagistan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7bb6537-df30-445e-bde3-a66ed66ed8c5.jpg">]]></description>
+            <link>https://thegrid.ai/swagistan/dc3cd455-8c1c-48be-97b5-d1ef5f475b03/index.html</link>
+            <guid isPermaLink="false">dc3cd455-8c1c-48be-97b5-d1ef5f475b03</guid>
+            <pubDate>Sat, 14 May 2016 14:56:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Swagistan is now on The Grid </p>]]></description>
-            <link>undefinedswagistan-is-now-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/swagistan/swagistan-is-now-on-the-grid/index.html</link>
             <guid isPermaLink="false">31a1ef6b-c324-447f-a36b-021a7bc7ed38</guid>
             <pubDate>Sat, 14 May 2016 14:53:24 GMT</pubDate>
         </item>
